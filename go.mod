@@ -25,7 +25,7 @@ require (
 	github.com/vvakame/sdlog v0.0.0-20200409072131-7c0d359efddc
 	github.com/xanzy/go-gitlab v0.74.0
 	go.opencensus.io v0.24.0
-	golang.org/x/build v0.0.0-20221014163309-209d90145202
+	golang.org/x/build v0.0.0-20221114213249-036509dbe4d1
 	golang.org/x/oauth2 v0.2.0
 	golang.org/x/sync v0.1.0
 	google.golang.org/protobuf v1.28.1
@@ -51,7 +51,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/prometheus v2.5.0+incompatible // indirect
 	github.com/stretchr/objx v0.5.0 // indirect
-	golang.org/x/crypto v0.0.0-20220307211146-efcb8507fb70 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/net v0.2.0 // indirect
 	golang.org/x/sys v0.2.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
